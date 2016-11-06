@@ -1,0 +1,2 @@
+defmodule CybozuLive do
+end
